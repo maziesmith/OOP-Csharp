@@ -24,8 +24,6 @@ namespace formulaGerona
             s = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
 
             Console.WriteLine("По формуле Герона площадь треугольника S = {0}", s);
-
-            Console.ReadKey();
         }
     }
 }
